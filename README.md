@@ -14,6 +14,18 @@
 
 </div>
 
+<br>
+
+## ☎ Contact
+
+### 🔥 김예찬
+### 💻 Front-end Developer
+### 📞 010-2695-7092
+### ✉ k1my3ch4n@gmail.com
+### 🏠 경기 성남시 분당구
+
+<br>
+
 ## 🛠 Tech Stack
 
 ### Frontend
