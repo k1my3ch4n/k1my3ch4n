@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Speech&color=gradient&height=300&section=header&text=😎%20Welcome%20!&fontSize=90)
 
-<a href='https://k1my3ch4ns.notion.site/1a8c98c1db058050acfdfab5d4bc6b9f' target="_blank">
+<a href='https://k1my3ch4ns.notion.site/1cac98c1db05805bb6e8c4c02a55c72c?pvs=74' target="_blank">
    <img src='https://img.shields.io/badge/Resume-633DE5?style=for-the-badge&labelColor=4C566A'>
 </a>
 <a href='https://portfolio.k1my3ch4n.xyz/' target="_blank">
