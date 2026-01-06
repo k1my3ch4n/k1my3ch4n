@@ -19,9 +19,13 @@
 ## ☎ Contact
 
 ### 🔥 김예찬
+
 ### 💻 Front-end Developer
+
 ### 📞 010-2695-7092
+
 ### ✉ k1my3ch4n@gmail.com
+
 ### 🏠 경기 성남시 분당구
 
 <br>
@@ -67,4 +71,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 
+<br>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k1my3ch4n&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
